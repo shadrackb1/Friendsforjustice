@@ -1,10 +1,8 @@
-﻿# Friendsforjustice
+# Friends for Justice
 
-Friends for Justice | Kilifi County
+<img src="./assets/header.svg" width="100%" alt="Friends for Justice" />
 
-## Stack
-
-react Â· vite Â· typescript Â· node
+Promoting justice and community empowerment in Kilifi County.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· node
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
