@@ -1,8 +1,12 @@
 # Friends for Justice
 
-<img src="./assets/header.svg" width="100%" alt="Friends for Justice" />
+Justice and empowerment work in Kilifi.
 
-Promoting justice and community empowerment in Kilifi County.
+**Status:** brand site
+
+## Stack
+
+React, TypeScript, Vite
 
 ## Run locally
 
